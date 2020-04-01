@@ -59,13 +59,13 @@ body{
     font-size: 50px;
     text-align: center;
     animation-name: small-shrink-big-text;
-    animation-duration:500ms;
+    animation-duration: 400ms;
     animation-fill-mode: forwards;
 }
 
 #big-main-text:hover{
     animation-name: small-grow-big-text;
-    animation-duration: 500ms;
+    animation-duration: 400ms;
     animation-direction: alternate;
     animation-fill-mode: both;
     animation-fill-mode: forwards;
