@@ -1,15 +1,6 @@
 body{
     
 }
-#top-bar{
-    margin: auto;
-    height: 110px;
-    z-index: 1;
-    padding: 10px;
-    width: 100%;
-    display: block;
-    background-color: #7c8e51;
-}
 
 #middle-bar{
     padding: 30px; 
