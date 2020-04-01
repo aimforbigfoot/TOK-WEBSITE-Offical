@@ -1,0 +1,19 @@
+.big-middle-text{
+    vertical-align: middle;
+    margin-top: 30%;
+    margin-bottom:30%;
+    text-align: center;
+    justify-content: center;
+    font-size: 75px;
+}
+
+#middle-bar-error{
+    position: relative;
+    padding: 30px;
+    background-color: #cfd9ce;
+    width: 100%; 
+    text-align: justify;
+    justify-content: center;
+    vertical-align: middle;
+    min-height: 1000px;
+}

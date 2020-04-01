@@ -1,0 +1,7 @@
+black - #414141
+grey - #6b7478
+almost white - #cfd9ce
+green - #7c8e51
+aqua green - #384d47
+top-bar id is for the top bar
+middle-bar is acc just a big background
