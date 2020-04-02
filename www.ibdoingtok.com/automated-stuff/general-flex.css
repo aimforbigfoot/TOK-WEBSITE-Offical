@@ -21,13 +21,13 @@
 }
 
 .flex-item{
-    background: tomato;
+    background: #94FF9D;
     padding: 20px;
     width: auto;
     height: auto;
     margin-top: 10px;
     line-height: 100px;
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: var(--main-size);
     text-align: center;

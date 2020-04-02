@@ -4,12 +4,12 @@ html{
 #middle-bar{
     padding: 30px; 
     top: 100px;
-    background-image: linear-gradient( -45deg, #7e997d, #cfd9ce);
+    background-image: linear-gradient( -45deg, #adc2ac, #ffffff);
     width: 100%; 
     height: auto;
     margin: auto;
     text-align: justify;
-    min-height: 1000px;
+    min-height: 800px;
     /*#75b06f a and a6c2a3 or #7e997d*/
 }
 
@@ -23,7 +23,33 @@ html{
     padding-top: 10px;
     margin: auto;
 }
-
+.generic-text-middle{
+    text-align: justify;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+}
+.generic-text-small{
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+}
+.generic-text-ssmall{
+    text-align: justify;
+    font-size: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+}
 #centered-image{
     align-content: center;
     display: block;
