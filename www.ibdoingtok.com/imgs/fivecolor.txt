@@ -5,3 +5,12 @@ green - #7c8e51
 aqua green - #384d47
 top-bar id is for the top bar
 middle-bar is acc just a big background
+
+
+black: 252c2f
+
+
+
+
+
+
